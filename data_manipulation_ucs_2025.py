@@ -51,6 +51,15 @@ df_ucs_environment_compensation['CÓDIGO CNUC'] = \
     df_ucs_environment_compensation['CÓDIGO CNUC'].astype(
         str).str.replace(r'\.0$', '', regex=True)
 
+# Check if rows with 'CÓDIGO CNUC' with length less than 4
+len_numbers_mask = df_ucs_environment_compensation['CÓDIGO CNUC'].str.len() < 4
+
+#Fill the 'CÓDIGO CNUC' column with the last 4 characters
+df_ucs_environment_compensation['CÓDIGO CNUC'] = \
+    df_ucs_environment_compensation['CÓDIGO CNUC'].mask(
+          len_numbers_mask, df_ucs_environment_compensation[
+                'CÓDIGO CNUC'].str.zfill(4))
+
 # Merge the two dataframes on the 'CÓDIGO CNUC' column
 df_ucs_environment_compensation_biome: pd.DataFrame = \
     df_ucs_environment_compensation.merge(
