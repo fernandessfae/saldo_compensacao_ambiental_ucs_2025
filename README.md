@@ -2,16 +2,16 @@
 
 ## Sumário
 
-- [Introdução]()
-- [Obtenção de dados]()
-- [Panorama Geral]()
-- [Panorama Regional]()
-    - [Região Norte]()
-    - [Região Nordeste]()
-    - [Região Centro-Oeste]()
-    - [Região Sudeste]()
-    - [Região Sul]()
-- [Conclusão]()
+- [Introdução](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#introdu%C3%A7%C3%A3o)
+- [Obtenção de dados](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#obten%C3%A7%C3%A3o-dos-dados)
+- [Panorama Geral](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#panorama-geral)
+- [Panorama Regional](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#panorama-regional)
+    - [Região Norte](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#gr1---regi%C3%A3o-norte)
+    - [Região Nordeste](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#gr2---regi%C3%A3o-nordeste)
+    - [Região Centro-Oeste](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#gr3---regi%C3%A3o-centro-oeste)
+    - [Região Sudeste](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#gr4---regi%C3%A3o-sudeste)
+    - [Região Sul](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#gr5---regi%C3%A3o-sul)
+- [Conclusão](https://github.com/fernandessfae/saldo_compensacao_ambiental_ucs_2025?tab=readme-ov-file#conclus%C3%A3o)
 
 ## Introdução
 <div align='justify'> Para quem trabalha na área ambiental, ou que tem algum tipo de conhecimento da área, sabe que qualquer coisa que venha a ser feito em determinado ambiente gerará um impacto, desde uma simples corte de uma árvore a construção de algum empreendimento naquele local, assim como a construção de pistas, oleodutos, linhas de transmissão de energia elétrica, etc. Com isso, são necessárias medidas para mitigar, ou reduzir, o impacto ambiental naquele local. Existem várias medidas para redução dos impactos ambientais, mas o foco deste texto serão os <b>recursos de compensação ambiental</b>. 
